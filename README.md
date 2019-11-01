@@ -23,7 +23,7 @@ Alternatively,
   
   If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Preparng GRE :)](https://static.careers360.mobi/media/article_images/2018/01/05/GRE_Test-2016.jpg)
 
 # Structured documents
 
